@@ -1,6 +1,5 @@
 package org.example;
 import java.util.*;
-import java.util.logging.Level;
 import java.util.logging.Logger;
 class SimpleContact {
     public static void main(String[] args) {
